@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Dec 15 16:29:13 CST 2020
+0.baseType=DIRECTORY
+0.base=E\:\\Android_SY\\NotePad-master\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
