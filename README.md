@@ -52,7 +52,7 @@ values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, exactdate);
 
 运行效果
 
-https://i.loli.net/2020/12/16/wXiYBE9tbZRhNMj.png
+![QQ图片20201216184724.png](https://i.loli.net/2020/12/16/wXiYBE9tbZRhNMj.png)
 
 **基本功能二：添加笔记查询功能（根据标题查询）**
 
